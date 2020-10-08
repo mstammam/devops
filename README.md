@@ -1,4 +1,4 @@
-[![<mstammam>](https://circleci.com/gh/mstammam/devops.svg?style=svg)](https://circleci.com/gh/mstammam/devops)
+[![circleci>](https://circleci.com/gh/mstammam/devops.svg?style=svg)](https://circleci.com/gh/mstammam/devops)
   
   
   
